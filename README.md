@@ -2,7 +2,7 @@
 
 ## Introduction
 
-react-widget-meteo is a reaction project that displays the weather in real time with a small icon and degrees.
+react-widget-meteo is a React project that displays the weather in real time with a small icon and degrees.
 The API used is [openwather](https://openweathermap.org/api).
 
 ##  Content
